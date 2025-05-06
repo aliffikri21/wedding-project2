@@ -510,4 +510,7 @@ footer li {
         font-size: 1.5rem;
         text-align: center;
     }
+    .offcanvas {
+        max-width: 60%;
+    }
 }
