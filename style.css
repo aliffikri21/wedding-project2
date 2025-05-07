@@ -484,7 +484,7 @@ footer li {
 }
 
 /* Small Phone */
-@media (max-width: 432px) {
+@media (max-width: 500px) {
     html {
         font-size: 60%;
     }
@@ -511,6 +511,7 @@ footer li {
         text-align: center;
     }
     .offcanvas {
-        max-width: 60%;
+        max-width: 65%;
+        right: 0;
     }
 }
