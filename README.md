@@ -27,7 +27,7 @@ Proyek ini dibangun menggunakan HTML dan CSS.
 
 ![image](https://github.com/user-attachments/assets/cf1a3139-6541-4329-b83b-74a7e262a73b)
 
-## Video Referensi
+## 🎥 Video Referensi
 special thanks to;
 https://www.youtube.com/@sandhikagalihWPU -- Pak Sandhika Galih
 https://www.youtube.com/watch?v=MCVkMmYL-aY&list=PLFIM0718LjIWtASeDQ5vxbNsdqfSjihCg -- Playlist Kedai Kopi Kenangan Senja
